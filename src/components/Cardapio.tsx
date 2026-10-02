@@ -99,7 +99,7 @@ export default function Cardapio() {
         <div role="status" aria-live="polite" className="sr-only">{aviso}</div>
 
         {filtrados.length === 0 && (
-          <p className="vazio">Não encontrámos nada para «{q}». Experimente outro ingrediente ou <button className="link" onClick={() => { setQ(""); setCat("todas"); }}>limpe a pesquisa</button>.</p>
+          <p className="vazio">Não encontrámos nada para {q}. Experimente outro ingrediente ou <button className="link" onClick={() => { setQ(""); setCat("todas"); }}>limpe a pesquisa</button>.</p>
         )}
 
         {categorias.map((c) => {
@@ -198,7 +198,7 @@ export default function Cardapio() {
                 <input value={morada} onChange={(e) => setMorada(e.target.value)} autoComplete="street-address" aria-invalid={!morada.trim()} />
               </label>
             )}
-            <label className="campo">Observações (ex.: ingredientes de «Você decide», sem cebola…)
+            <label className="campo">Observações (ex.: ingredientes de Você decide, sem cebola…)
               <textarea rows={2} value={obs} onChange={(e) => setObs(e.target.value)} />
             </label>
 
