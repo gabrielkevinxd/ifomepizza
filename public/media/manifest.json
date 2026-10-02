@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "frameDir": "/media/hero-frames",
+    "frameCount": 129,
+    "ext": "webp",
+    "width": 1920,
+    "height": 1080,
+    "poster": "/media/hero-poster.webp",
+    "mobileFrameDir": "/media/hero-frames-m",
+    "mobileFrameCount": 91
+  },
+  "images": {
+    "pizza-classica": { "src": "/media/pizza-classica.webp", "alt": "Pizza margherita de massa fina com crosta tostada, mozzarella e folhas de manjericão fresco" },
+    "pizza-especial": { "src": "/media/pizza-especial.webp", "alt": "Pizza especial com salsicha, cebola roxa, pimentos e azeitonas, com uma fatia a esticar o queijo" },
+    "pizza-doce": { "src": "/media/pizza-doce.webp", "alt": "Pizza doce com chocolate, morangos, banana e açúcar em pó" },
+    "esfihas": { "src": "/media/esfihas.webp", "alt": "Esfihas brasileiras abertas de carne, acabadas de sair do forno" },
+    "hamburguer": { "src": "/media/hamburguer.webp", "alt": "Hambúrguer artesanal com queijo derretido, alface e tomate, acompanhado de batatas fritas" },
+    "ambiente": { "src": "/media/ambiente.webp", "alt": "Ambiente acolhedor da pizzaria com mesas de madeira, parede de tijolo e forno a lenha ao fundo" },
+    "forno": { "src": "/media/forno.webp", "alt": "Forno a lenha em tijolo com chamas acesas e pá de madeira" }
+  }
+}
