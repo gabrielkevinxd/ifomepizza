@@ -106,7 +106,7 @@ export default function Home() {
             <div>
               <p className="sobretitulo">Sobre nós</p>
               <h2 id="t-sobre">Um cardápio luso-brasileiro pensado para si</h2>
-              <p>A iFome traz a pizza ao estilo de São Paulo para Braga: massa feita com tempo, queijo à séria e sabores que misturam o melhor de Portugal e do Brasil — da «À moda portuguesa» à Calacatu, com calabresa e catupiry.</p>
+              <p>A iFome traz a pizza ao estilo de São Paulo para Braga: massa feita com tempo, queijo à séria e sabores que misturam o melhor de Portugal e do Brasil — desde a pizza «À moda portuguesa» até à Calacatu, de calabresa com catupiry.</p>
               <p>Somos também esfiharia: as esfihas brasileiras, de carne, queijo, frango com catupiry ou doces com Nutella, são a casa. Para quem tem fome a sério, há combos até 30 esfihas e hambúrgueres artesanais de 130 g.</p>
               <ul className="selos">
                 <li>Pizzas e pizzas doces</li><li>Esfihas salgadas e doces</li><li>Hambúrgueres artesanais</li><li>Entrega e take-away</li>

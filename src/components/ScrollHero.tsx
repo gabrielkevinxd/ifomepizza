@@ -31,7 +31,7 @@ const FASES: Fase[] = [
       </>
     ),
   },
-  { de: 0.28, ate: 0.5, node: (<><p className="sobretitulo">01 · A massa</p><h2>Massa feita com tempo.<br />Queijo à séria.</h2><p className="fase__txt">Mais de 40 sabores de pizza, desde a «À moda portuguesa» até à Calacatu — do clássico ao inesperado.</p></>) },
+  { de: 0.28, ate: 0.5, node: (<><p className="sobretitulo">01 · A massa</p><h2>Massa feita com tempo.<br />Queijo à séria.</h2><p className="fase__txt">Mais de 40 sabores de pizza, desde a pizza «À moda portuguesa» até à Calacatu — do clássico ao inesperado.</p></>) },
   { de: 0.54, ate: 0.76, node: (<><p className="sobretitulo">02 · A casa</p><h2>Pizza, esfiha<br />e hambúrguer.</h2><p className="fase__txt">Esfihas salgadas e doces, combos até 30 unidades e hambúrgueres artesanais de 130 g.</p></>) },
   {
     de: 0.8, ate: 1.01,
